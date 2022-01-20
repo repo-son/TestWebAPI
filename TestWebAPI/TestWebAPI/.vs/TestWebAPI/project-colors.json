@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "612888d3-622f-4594-94a4-7eda33457957": {
+      "ProjectGuid": "612888d3-622f-4594-94a4-7eda33457957",
+      "DisplayName": "TestWebAPI",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
